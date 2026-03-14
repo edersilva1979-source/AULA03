@@ -1,1 +1,2 @@
-meu projeto git
+meu projeto git - 
+para gerar log
